@@ -1,0 +1,284 @@
+@media (min-width: 1400px){
+	.container {
+	    max-width: 1230px;
+	}
+}
+
+
+
+
+@media (max-width: 1440px){
+	.header-info .address {
+    white-space: inherit;
+	}
+
+header .block-logo {
+    margin-right: 0px;
+        padding: 80px 20px 25px 14px;
+}
+
+header .header-info .header-info-item{
+	width: 152px
+}
+.content-title {
+    padding-top: 52px;
+}
+}
+
+
+@media (max-width: 1200px){
+	.o-company .photo-predsedatel {
+    margin-right: 3px;
+	}
+	.o-company .company-text {
+    padding: 84px 0 145px 66px;
+}
+.o-company .company-text i {
+    right: auto;
+    top: auto;
+}
+header .header-info .navbar .nav-link {
+    font-size: 15px;
+    text-transform: initial;
+    font-weight: 500;
+}
+
+.content-info .production-item .production-item-shadow {
+    box-shadow: inset -405px 0px 69px -61px rgba(20,65,114,1);
+}
+
+}
+
+
+@media (max-width: 992px){
+
+header .header-info .navbar{
+	    position: absolute;
+    width: 56px;
+    top: 36%;
+    right: 0;
+    padding: 0;
+    margin-top: 0;
+}
+.header-info .address{
+	display: block;
+}
+
+.header-info a{
+	display: block;
+}
+.header-info .btn {
+    margin-left: 0;
+    width: 180px;
+}
+header .header-info .header-info-item {
+    width: auto;
+}
+.header-info {
+    padding-top: 7px;
+}
+.header-info {
+    height: 160px;
+    }
+    .header-info .address {
+    margin-bottom: 5px;
+}
+.header-info a {
+    margin-bottom: 5px;
+
+}
+header .header-info .navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+.collapse.show {
+        padding: 8px;
+        background: rgb(255, 255, 255, 0.8);
+            width: 201px;
+
+
+right: 0px;
+    top: 42px;
+    position: absolute;
+
+
+
+
+}
+
+
+header .navbar .dropdown-item{
+	    white-space: inherit;
+        line-height: 19px;
+}
+
+
+header .header-info .navbar-nav .dropdown-menu {
+
+    position: relative;
+        top: 0;
+    left: -117px;
+        width: 310px;
+}
+
+
+.products .products-item .title-products {
+    padding: 0 15px;
+
+}
+
+.o-company .photo-predsedatel {
+    display: none;
+}
+.o-company .company-text {
+    padding: 84px 55px 145px 66px;
+}
+
+.polymer-production {
+     width: auto; 
+    text-align: center;
+    font-weight: 300;
+    margin-top: 63px;
+}
+footer .header-info{
+	text-align: center;
+}
+footer .header-info .btn {
+    margin: 0 auto;
+}
+footer .menu-footer {
+    margin-bottom: 15px;
+    margin-top: 35px;
+}
+footer .menu-footer {
+    justify-content: center;
+        text-align: center;
+}
+.content-info .production-item .production-item-shadow {
+    box-shadow: inset -570px 0px 69px -61px rgba(20,65,114,1);
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+@media (max-width: 768px){
+	.o-company .company-text {
+	    padding: 10px 10px 126px 20px !important;
+    text-align: justify;
+	}
+
+
+header .block-logo{
+	float: initial;
+	padding: 20px 15px 15px 7px;
+    width: 195px;
+    display: block;
+    margin: 0 auto 25px;
+}
+.head-back .head-title-block h2 {
+    font-size: 26px;
+    text-transform: inherit;
+    text-align: center;
+}
+
+.head-back .head-title-block {
+    padding-top: 65px;
+    color: #fff;
+}
+.head-back .head-title-block .btn-block-head {
+    flex-direction: column;
+    margin-top: 25px;
+}
+.head-back .head-title-block .btn-video {
+    margin-left:0px;
+    margin-top: 20px;
+}
+
+.partners .owl-nav{
+	display: none;
+}
+.head-back .head-title-block p {
+    font-size: 14px;
+    margin-top: 6px;
+    text-align: center;
+}
+ 
+.o-company  .company-title{
+	text-align: center;
+}
+.o-company .min-title {
+    font-size: 14px;
+}
+.title {
+    font-size: 35px;
+}
+.o-company {
+    padding-top: 40px;
+}
+
+.products .products-item {
+
+    height: 292px;
+
+    background-position: center;
+}
+
+.products .title {
+    margin-bottom: 20px;
+}
+
+.our-advantages .title {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.our-advantages .advantages-item {
+    text-align: center;
+}
+.our-advantages .advantages-item p {
+
+    margin-bottom: 43px;
+
+}
+
+.our-advantages .advantages-item .title-advantages {
+    font-size: 17px;
+
+    margin: 10px 0 2px;
+}
+.our-advantages {
+    padding-top: 55px;
+    padding-bottom: 10px;
+    background-size: cover;
+}
+.polymer-production p{
+	padding: 0 10px;
+}
+header .header-info .navbar {
+    right: 20px;
+}
+.header-info{
+	padding-left: 10px;
+}
+header .header-info .navbar-light .navbar-nav .nav-link {
+
+    font-size: 14px;
+}
+header .header-info .navbar .dropdown-item {
+        text-transform: inherit;
+    font-size: 13px;
+    padding: 4px 9px;
+}
+
+
+
+}
